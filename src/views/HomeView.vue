@@ -1,6 +1,6 @@
 <template>
-  <main>
-    <v-btn text="btn" />
+  <main class="bg-[#f75d5d]">
+    <v-btn text="btn" class="bg-amber-600 text-white" />
   </main>
 </template>
 
